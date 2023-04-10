@@ -1,0 +1,21 @@
+{
+	"name": "SapOdp1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SapOdp",
+		"typeProperties": {
+			"clientId": "sfsdfsdfsdfsdf",
+			"language": "fsdfsdfsdfsdf",
+			"sncMode": false,
+			"userName": "fsdfdsfdsf",
+			"server": "erty",
+			"systemNumber": "ffdsfsdfsdfds",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIxMWE0NTRmNS1iMGUwLTQ2ZWItYmQ0Zi02NjE1YzA3MDdhNmUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "selfazure",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
