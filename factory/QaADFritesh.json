@@ -1,0 +1,9 @@
+{
+	"name": "QaADFritesh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c75d6d82-c02c-4d6e-b4ab-0c4f883bc12a",
+		"tenantId": "d90c7514-c9b4-499d-bc6f-eae4c3f508d1"
+	}
+}
